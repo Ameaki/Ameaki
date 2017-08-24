@@ -1,0 +1,76 @@
+/*! normalize.css v6.0.0 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}article,aside,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}figcaption,figure,main{display:block}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}dfn{font-style:italic}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}audio,video{display:inline-block}audio:not([controls]){display:none;height:0}img{border-style:none}svg:not(:root){overflow:hidden}button,input,optgroup,select,textarea{margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{display:inline-block;vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details,menu{display:block}summary{display:list-item}canvas{display:inline-block}template{display:none}[hidden]{display:none}/*# sourceMappingURL=normalize.min.css.map */
+
+
+
+
+
+
+/* Start here */
+.a{ color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-15deg);position: relative;top:150px;left:490px}
+.b{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(15deg);position: relative;top:430px;left:560px}
+.c{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(8deg);position: relative;top:350px;left:530px}
+.d{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(40deg);position: relative;top:670px;left:420px}
+.e{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-60deg);position: relative;top:-230px;left:330px}
+.f{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-5deg);position: relative;top:110px;left:610px}
+.g{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-40deg);position: relative;top:-290px;left:450px}
+.h{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(20deg);position: relative;top:175px;left:460px}
+.i{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(70deg);position: relative;top:520px;left:80px}
+.j{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-15deg);position: relative;top:-150px;left:420px}
+.k{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(70deg);position: relative;top:580px;left:40px}
+.l{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-13deg);position: relative;top:-80px;left:475px}
+.m{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(70deg);position: relative;top:600px;left:120px}
+.n{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-23deg);position: relative;top:-140px;left:535px}
+.o{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(50deg);position: relative;top:422px;left:451px}
+.p{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(55deg);position: relative;top:540px;left:400px}
+.q{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-50deg);position: relative;top:-450px;left:460px}
+.r{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(8deg);position: relative;top:-40px;left:670px}
+.s{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-90deg);position: relative;top:-760px;left:130px}
+.t{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-23deg);position: relative;top:-495px;left:655px}
+.u{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(8deg);position: relative;top:-115px;left:760px}
+.v{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-25deg);position: relative;top:-510px;left:700px}
+.w{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(45deg);position: relative;top:-45px;left:530px}
+.x{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-60deg);position: relative;top:-970px;left:350px}
+.y{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(65deg);position: relative;top:15px;left:250px}
+.z{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-35deg);position: relative;top:-790px;left:280px}
+.A{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(45deg);position: relative;top:-5px;left:220px}
+.B{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-23deg);position: relative;top:-630px;left:330px}
+.C{color:brown; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(40deg);position: relative;top:-25px;left:220px}
+.D{color:lightgrey; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(25deg);position: relative;top:-550px;left:10px}
+.E{color:lightgrey; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-25deg);position: relative;top:-350px;left:10px}
+.F{color:lightgrey; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(25deg);position: relative;top:-150px;left:10px}
+.G{color:lightgrey; text-shadow:  5px 5px 2px -2px #9966cc;transform: rotate(-25deg);position: relative;top:50px;left:10px}
+body{background-color:floralwhite}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
